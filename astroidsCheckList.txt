@@ -1,0 +1,37 @@
+% project setup
+    x Create the scene *
+    x Create bacground stars for prettyness :3 *
+    ? Create galaxies
+% Player movement
+    x create player
+    x create player foward movement
+    x create player rotation
+    x create little flame/jet animation
+% Projectiles
+
+% Astroids
+
+% Projectile collision
+
+% Character collision
+
+% Create Menu
+    - Game title
+    - Github Repo button
+    - Start game Button
+
+% Create gameover
+    - Needs
+        - Restart game button
+        - Main Menu button
+        - Highscore
+
+% Sound effects
+    - Rock explosion
+    - Laser firing
+    - Jet start
+    - Jet continue
+    - Jet Stop
+    - Death
+    - Game Over
+    - Spawn
