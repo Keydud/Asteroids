@@ -6,7 +6,7 @@ class Player{
         this.velocity = velocity;
         this.rotation = 0.0;
         this.flicker = 0;
-        this.lives = 0;
+        this.lives = 2;
     }
 
     drawPlayer(){
