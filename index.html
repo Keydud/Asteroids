@@ -9,10 +9,29 @@
             margin: 0;
             padding: 0;
         }
+
+        body{
+            background-color: black;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #game{
+            position:fixed;
+            visibility: hidden;
+        }
+
+        #crt{
+        }
+
     </style>
 </head>
 <body>
-    <canvas></canvas>
+    <canvas id="game"></canvas>
+    <div id="crt"></div>
     <script src="./astroids.js"></script>
+    <script type="module" src="./crt.js"></script>
 </body>
 </html>

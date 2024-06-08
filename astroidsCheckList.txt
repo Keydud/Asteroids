@@ -30,8 +30,14 @@
     - Rock explosion
     - Laser firing
     - Jet start
-    - Jet continue
-    - Jet Stop
     - Death
     - Game Over
     - Spawn
+
+% create oldschool CRT effect
+    x Make vector shader
+    % Make fragment shader
+        - create image ghosting
+        - lighten the dark areas
+        - darken ghosting areas
+        - create vertical and horizantal scan lines
